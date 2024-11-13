@@ -1,3 +1,5 @@
 Content for newfile.txt
 
 Add new content for second commit
+
+Add more content and commit to new branch
