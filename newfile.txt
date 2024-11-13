@@ -1,1 +1,3 @@
 Content for newfile.txt
+
+Add new content for second commit
